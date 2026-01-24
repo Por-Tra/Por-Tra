@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Computer Science student  
 - 🚀 Interested in **software development** and **systems**
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=por-tra&show_icons=true&theme=default" height="160"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-contreras-hodapp">
