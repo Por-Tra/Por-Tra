@@ -50,8 +50,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=por-tra&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=por-tra&layout=compact" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=por-tra&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
