@@ -51,6 +51,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=por-tra&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Por-Tra&theme=blueberry"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Por-Tra&theme=blueberry"/>
+  
 </p>
 
 ---
